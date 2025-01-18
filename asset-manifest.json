@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-daily-tracker/static/css/main.dc4d6ff2.css",
+    "main.js": "/my-daily-tracker/static/js/main.3f17334e.js",
+    "index.html": "/my-daily-tracker/index.html",
+    "main.dc4d6ff2.css.map": "/my-daily-tracker/static/css/main.dc4d6ff2.css.map",
+    "main.3f17334e.js.map": "/my-daily-tracker/static/js/main.3f17334e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.3f17334e.js"
+  ]
+}
