@@ -1,6 +1,7 @@
 @import './styles/_reset';
 
 @import './components/Header/Header';
+@import './components/NavBar/NavBar';
 
 body {
   height: 100%;
@@ -10,4 +11,11 @@ body {
 
 .container {
   padding-inline: 15px;
+}
+
+.icon {
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
