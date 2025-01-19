@@ -1,0 +1,25 @@
+.header {
+  padding-block: 10px;
+}
+
+.app-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.8px;
+  color: #52616a;
+
+  &::before,
+  &::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 1px;
+    background-color: #52616a;
+  }
+}
