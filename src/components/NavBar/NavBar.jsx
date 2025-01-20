@@ -1,15 +1,15 @@
+import { Link, NavLink } from 'react-router-dom';
 
 export const NavBar = () => {
   return (
     <section className="nav-bar container">
-      <ul className="nav-bar__list">
-        <li className="nav-bar__item to-do-list icon">
-       </li>
-        <li className="nav-bar__item statistic icon"></li>
-        <li className="nav-bar__item weight icon"></li>
-        <li className="nav-bar__item fitnes-center icon"></li>
-        <li className="nav-bar__item timer icon"></li>
-      </ul>
+      <div className="nav-bar__content">
+        <NavLink to="/" className="nav-bar__item nav-bar__item--active to-do-list icon" />
+        <NavLink to="/statistic" className="nav-bar__item statistic icon" />
+        <NavLink to="/weight" className="nav-bar__item weight icon" />
+        <NavLink to="/fitness" className="nav-bar__item fitness-center icon" />
+        <NavLink to="/timer" className="nav-bar__item timer icon" />
+      </div>
     </section>
   );
 };
