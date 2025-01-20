@@ -1,10 +1,10 @@
-import { TodoActions } from '../TodoActions';
+import { TodoActions } from '../../components/TodoActions';
 
-export const TodoContent = () => {
+export const Todo = () => {
   return (
     <>
       <TodoActions />
-      <section className="todo-content">
+      <section className="todo-section">
         <div className="container">
           <div className="todo-content__front">
             <h2 className="todo__title">Actual tasks:</h2>

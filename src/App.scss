@@ -4,7 +4,11 @@
 @import './components/NavBar/NavBar';
 @import './components/DateWidget/DateWidget';
 @import './components/TodoActions/TodoActions';
-@import './components/TodoContent/TodoContent';
+@import './pages/Todo/Todo';
+@import './pages/Fitness/Fitness';
+@import './pages/Statistic/Statistic';
+@import './pages/Timer/Timer';
+@import './pages/Weight/Weight';
 
 body {
   height: 100%;
