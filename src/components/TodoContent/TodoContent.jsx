@@ -9,8 +9,8 @@ export const TodoContent = () => {
               <button className="check-button icon" />
               <label>To do 1</label>
             </li>
-            <li className="todo__item">
-              <button className="check-button icon" />
+            <li className="todo__item todo__item--active">
+              <button className="check-button check-button--completed icon" />
               <label>To do 2</label>
             </li>
             <li className="todo__item">

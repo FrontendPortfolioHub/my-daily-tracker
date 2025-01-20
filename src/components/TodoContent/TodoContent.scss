@@ -33,6 +33,10 @@
   line-height: normal;
   letter-spacing: -0.7px;
 
+  &--active {
+    background-color: #F0F5F9;
+  }
+
   & button {
     margin-right: 15px;
     width: 20px;
@@ -44,4 +48,8 @@
   width: 24px;
   height: 24px;
   background-image: url('../../assets/icons/check-button.svg');
+
+  &--completed {
+    background-image: url('../../assets/icons/complete-button.svg');
+  }
 }
