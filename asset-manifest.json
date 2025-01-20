@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-daily-tracker/static/css/main.d9be60bb.css",
-    "main.js": "/my-daily-tracker/static/js/main.e31b804d.js",
+    "main.css": "/my-daily-tracker/static/css/main.de545ec4.css",
+    "main.js": "/my-daily-tracker/static/js/main.d4e55183.js",
     "static/media/view-button.svg": "/my-daily-tracker/static/media/view-button.e6b59392f97d9f031ed4.svg",
     "static/media/weight.svg": "/my-daily-tracker/static/media/weight.433f87e3743b0ff78f09.svg",
     "static/media/timer.svg": "/my-daily-tracker/static/media/timer.e6c1a4aeeae363187ad9.svg",
@@ -9,15 +9,16 @@
     "index.html": "/my-daily-tracker/index.html",
     "static/media/to-do-list.svg": "/my-daily-tracker/static/media/to-do-list.ec38640895fb15abc1e1.svg",
     "static/media/edit-button.svg": "/my-daily-tracker/static/media/edit-button.aa3e7de33664082189f9.svg",
+    "static/media/complete-button.svg": "/my-daily-tracker/static/media/complete-button.e9ff7cf3bd5387c0ea9a.svg",
     "static/media/fitnes.svg": "/my-daily-tracker/static/media/fitnes.20ff885b85a210613f33.svg",
     "static/media/delete-button.svg": "/my-daily-tracker/static/media/delete-button.30de95a2f0331d9c7c7f.svg",
     "static/media/statistic.svg": "/my-daily-tracker/static/media/statistic.6bd3b8cd1ee1d3adc6eb.svg",
-    "static/media/complete-button.svg": "/my-daily-tracker/static/media/complete-button.ee892af6a12d1cb9538c.svg",
-    "main.d9be60bb.css.map": "/my-daily-tracker/static/css/main.d9be60bb.css.map",
-    "main.e31b804d.js.map": "/my-daily-tracker/static/js/main.e31b804d.js.map"
+    "static/media/check-button.svg": "/my-daily-tracker/static/media/check-button.dcccaf964401d2922916.svg",
+    "main.de545ec4.css.map": "/my-daily-tracker/static/css/main.de545ec4.css.map",
+    "main.d4e55183.js.map": "/my-daily-tracker/static/js/main.d4e55183.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9be60bb.css",
-    "static/js/main.e31b804d.js"
+    "static/css/main.de545ec4.css",
+    "static/js/main.d4e55183.js"
   ]
 }
