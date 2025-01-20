@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-daily-tracker/static/css/main.bdf5053c.css",
+    "main.css": "/my-daily-tracker/static/css/main.f27eacc4.css",
     "main.js": "/my-daily-tracker/static/js/main.eb387472.js",
     "static/media/view-button.svg": "/my-daily-tracker/static/media/view-button.e6b59392f97d9f031ed4.svg",
     "static/media/weight.svg": "/my-daily-tracker/static/media/weight.433f87e3743b0ff78f09.svg",
@@ -14,11 +14,11 @@
     "static/media/delete-button.svg": "/my-daily-tracker/static/media/delete-button.30de95a2f0331d9c7c7f.svg",
     "static/media/statistic.svg": "/my-daily-tracker/static/media/statistic.6bd3b8cd1ee1d3adc6eb.svg",
     "static/media/check-button.svg": "/my-daily-tracker/static/media/check-button.dcccaf964401d2922916.svg",
-    "main.bdf5053c.css.map": "/my-daily-tracker/static/css/main.bdf5053c.css.map",
+    "main.f27eacc4.css.map": "/my-daily-tracker/static/css/main.f27eacc4.css.map",
     "main.eb387472.js.map": "/my-daily-tracker/static/js/main.eb387472.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdf5053c.css",
+    "static/css/main.f27eacc4.css",
     "static/js/main.eb387472.js"
   ]
 }
