@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-daily-tracker/static/css/main.b54127d2.css",
-    "main.js": "/my-daily-tracker/static/js/main.ff4f7d68.js",
+    "main.css": "/my-daily-tracker/static/css/main.7551231e.css",
+    "main.js": "/my-daily-tracker/static/js/main.4b6e2ce5.js",
     "static/media/view-button.svg": "/my-daily-tracker/static/media/view-button.e6b59392f97d9f031ed4.svg",
     "static/media/weight.svg": "/my-daily-tracker/static/media/weight.433f87e3743b0ff78f09.svg",
     "static/media/timer.svg": "/my-daily-tracker/static/media/timer.e6c1a4aeeae363187ad9.svg",
@@ -14,11 +14,11 @@
     "static/media/delete-button.svg": "/my-daily-tracker/static/media/delete-button.30de95a2f0331d9c7c7f.svg",
     "static/media/statistic.svg": "/my-daily-tracker/static/media/statistic.6bd3b8cd1ee1d3adc6eb.svg",
     "static/media/check-button.svg": "/my-daily-tracker/static/media/check-button.dcccaf964401d2922916.svg",
-    "main.b54127d2.css.map": "/my-daily-tracker/static/css/main.b54127d2.css.map",
-    "main.ff4f7d68.js.map": "/my-daily-tracker/static/js/main.ff4f7d68.js.map"
+    "main.7551231e.css.map": "/my-daily-tracker/static/css/main.7551231e.css.map",
+    "main.4b6e2ce5.js.map": "/my-daily-tracker/static/js/main.4b6e2ce5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b54127d2.css",
-    "static/js/main.ff4f7d68.js"
+    "static/css/main.7551231e.css",
+    "static/js/main.4b6e2ce5.js"
   ]
 }
