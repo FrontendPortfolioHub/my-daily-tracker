@@ -1,5 +1,5 @@
 .todo-actions {
-  padding-block: 20px;
+  padding-bottom: 25px;
 }
 
 .todo-actions__list {
@@ -12,6 +12,12 @@
 .todo-actions__item {
   width: 26px;
   height: 26px;
+  opacity: 0.4;
+  pointer-events: none;
+
+  &--active {
+    opacity: 1;
+  }
 }
 
 .add-button {
