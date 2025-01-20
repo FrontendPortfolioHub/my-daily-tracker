@@ -9,6 +9,22 @@ export const TodoContent = () => {
               <button className="check-button icon" />
               <label>To do 1</label>
             </li>
+            <li className="todo__item">
+              <button className="check-button icon" />
+              <label>To do 2</label>
+            </li>
+            <li className="todo__item">
+              <button className="check-button icon" />
+              <label>To do 3</label>
+            </li>
+            <li className="todo__item">
+              <button className="check-button icon" />
+              <label>To do 4</label>
+            </li>
+            <li className="todo__item">
+              <button className="check-button icon" />
+              <label>To do 5</label>
+            </li>
           </ul>
         </div>
       </div>
